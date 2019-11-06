@@ -1,0 +1,6 @@
+.backgroundRootWelcome {
+    -fx-background-image: url("marc.jpg");
+
+    -fx-background-position: center center;
+}
+
